@@ -31,3 +31,5 @@
 <a href = "https://twitter.com/_gulam_anas_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 
 </p>
+
+![Metrics](https://metrics.lecoq.io/gulamanas?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
