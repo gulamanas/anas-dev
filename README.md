@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulamanas&layout=compact)](https://github.com/gulamanas/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gulamanas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anas' github activity graph](https://activity-graph.herokuapp.com/graph?username=gulamanas&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 
