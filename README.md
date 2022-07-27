@@ -6,7 +6,7 @@
 
 - I'm a Frontend Dev working with Javascript frameworks and Learning App Development in Dart Framework - Flutter App Development
 - In my free time I like to; read books, design user interface and draw pictures
-- I'm a community guy who loves to connect with other fellow developers.
+- I'm a community guy who loves to connect with other fellow developers on Twitter and Discord.
 
 ## 🚀 Languages and Tools:
 
